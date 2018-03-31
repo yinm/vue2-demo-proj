@@ -1,0 +1,33 @@
+{
+  "name": "vue2-demo-proj",
+  "version": "1.0.0",
+  "description": "refs: * [Vue.js入門：チュートリアルで学ぶReactとAngularとの違い - WPJ](https://www.webprofessional.jp/up-and-running-vue-js-2-0/) * [jackfranklin/vue2-demo-proj](https://github.com/jackfranklin/vue2-demo-proj)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yinm/vue2-demo-proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinm/vue2-demo-proj/issues"
+  },
+  "homepage": "https://github.com/yinm/vue2-demo-proj#readme",
+  "devDependencies": {
+    "babel-core": "6.18.2",
+    "babel-loader": "6.2.7",
+    "babel-preset-es2015": "6.18.0",
+    "css-loader": "0.25.0",
+    "live-server": "1.1.0",
+    "vue-template-compiler": "^2.1.10",
+    "webpack": "1.13.3"
+  },
+  "dependencies": {
+    "vue": "^2.1.10",
+    "vue-loader": "^10.0.2"
+  }
+}
